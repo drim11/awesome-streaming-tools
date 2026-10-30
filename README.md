@@ -20,6 +20,7 @@ A curated list of tools, resources, and platforms for live streamers on Twitch, 
 - **[StreamElements](https://streamelements.com)** — Free overlays, alerts, and chat bot
 - **[Streamlabs](https://streamlabs.com)** — Widgets, themes, and alerts
 - **[Own3d](https://www.own3d.tv)** — Premium overlays and designs
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** — Free macOS CLI serving a local browser-source overlay with ping, jitter, and probe loss
 
 ## 💬 Chat & Community
 
